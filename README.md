@@ -1,6 +1,6 @@
 # cnn-image-classification
 cnn ile görüntü sınıflandırma
-
+EPOCHS ÖĞRENMENİN KISA SÜRMESİ AMACIYLA 6 OLARAK VERİLMİŞTİR. EPOCHS = 50 OLARAK DENEYEREK DAHA DOĞRU SONUÇLARA ULAŞABİLİRSİNİZ.
 
 1000 ADET KEDİ FOTOGRAFINDAN OLUŞAN TEST SETİ
 ![cat_testset](https://user-images.githubusercontent.com/57067751/168265725-a1df0e61-dd39-4899-8b8a-2ceb3c2c6da3.png)
